@@ -1,0 +1,14 @@
+name: NoMoreEssential
+version: 1.0.0
+main: xyz.mdmck10.NoMoreEssential.NoMoreEssentialPlugin
+description: A Spigot/Paper plugin that kicks players with the Essential mod installed from your server, asking them to uninstall the mod in order to play.
+author: MDMCK10
+website: https://mdmck10.xyz
+api-version: 1.13
+softdepend:
+  - ProtocolLib
+  - ProtocolSupport
+  - ViaVersion
+  - ViaBackwards
+  - ViaRewind
+  - Geyser-Spigot
